@@ -66,13 +66,22 @@ h1 {
     text-transform: uppercase;
 }
 
+.container-number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 494px;
+    padding: 2px;
+    flex-direction: row;
+    position: relative;
+}
+
 .numbers {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: baseline;
-    width: 100%;
-    font-size: 71px;
+    align-items: center;
+    font-size: 68px;
     font-weight: 400;
     color: #4d4c59;
     line-height: 108px;
