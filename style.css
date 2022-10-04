@@ -31,6 +31,8 @@ body {
 }
 
 .container {
+    width: 494px;
+    margin-right: 20px;
     list-style: none;
     display: flex;
     flex-direction: column;
